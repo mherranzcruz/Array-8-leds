@@ -1,9 +1,9 @@
 /*****************************************************************
 **                                                              **
 **                        Títol:                                **
-**          Posar nom representatiu del programa                **
+**          Interacció amb polsador 2 seqüències                **
 **                                                              **
-** NOM:Martin Herranz Cruz                     Data:29/01/2018  **
+** NOM:Martin Herranz Cruz                     Data:21/02/2018  **
 *****************************************************************/
 //****************************INCLUDE*****************************
 
